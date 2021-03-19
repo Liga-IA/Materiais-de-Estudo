@@ -6,7 +6,7 @@
 - Kaggle: Your Machine Learning and Data Science Community </br>
   https://www.kaggle.com/
   
-  - Curso de Python</br>
+ - Curso de Python</br>
   https://www.youtube.com/watch?v=WT_zCgSHSTQ&list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn
   
  ## Livros
