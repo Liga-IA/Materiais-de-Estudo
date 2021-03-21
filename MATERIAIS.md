@@ -20,3 +20,8 @@
   ## Metodologias Ágeis
   
   - https://www.eduscrum.com.br/
+
+  ## Notebooks Python
+
+  - Curso Relampâgo de Python<br>
+  https://github.com/Liga-IA/Materiais-de-Estudo/blob/main/Arquivos/Python/Notebooks/LightningCoursePython.ipynb
