@@ -628,3 +628,283 @@ JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1616959741520	geckodriver	INFO	Listening on 127.0.0.1:50638
+1616959744604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofileX3jIrl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616959748338	Marionette	INFO	Listening on port 50648
+1616959748815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616959847028	Marionette	INFO	Stopped listening on port 50648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616959849820	geckodriver	INFO	Listening on 127.0.0.1:50782
+1616959852922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofile3JH2FQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616959856386	Marionette	INFO	Listening on port 50792
+1616959856622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616959864009	Marionette	INFO	Stopped listening on port 50792
+1616959887854	geckodriver	INFO	Listening on 127.0.0.1:50880
+1616959890968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofile10BxXK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616959894409	Marionette	INFO	Listening on port 50889
+1616959894658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616960107342	Marionette	INFO	Stopped listening on port 50889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofile5zqkKP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616960038266	Marionette	INFO	Listening on port 51053
+1616960038548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616960066196	Marionette	INFO	Stopped listening on port 51053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616960067339	geckodriver	INFO	Listening on 127.0.0.1:51155
+1616960070410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofileTO3xPv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616960074338	Marionette	INFO	Listening on port 51166
+1616960074590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616960090956	Marionette	INFO	Stopped listening on port 51166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616960110498	geckodriver	INFO	Listening on 127.0.0.1:51257
+1616960113598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofileneHFTk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616960117224	Marionette	INFO	Listening on port 51267
+1616960117276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616960234805	Marionette	INFO	Stopped listening on port 51267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RODRIG~1\\AppData\\Local\\Temp\\rust_mozprofilepjGI9y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616960209411	Marionette	INFO	Listening on port 51398
+1616960209936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+JavaScript error: https://repositorio.ufsc.br/themes/UFSC/lib/menus.js, line 243: TypeError: jQuery(...).slider is not a function
+1616960353712	Marionette	INFO	Stopped listening on port 51398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

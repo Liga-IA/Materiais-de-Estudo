@@ -15,12 +15,14 @@ if __name__ == "__main__":
                 meta = open(arq).read()
                 url = meta.split("=")
                 driver.get(url[1])
+                subjectsD = []
+                title = ""
                 try:
                     btn = driver.find_element_by_link_text('Mostrar registro completo')
                     btn.click()
                     rows = driver.find_elements_by_tag_name('tr')
-                    subjectsD = []
-                    title = driver.find_element_by_tag_name('h1').text
+                    title = driver.find_element_by_class_name('ds-div-head').text
+                    
                     for row in rows:
                         try:
                             row  = row.find_elements_by_tag_name('td')
@@ -29,23 +31,21 @@ if __name__ == "__main__":
                                 subjectsD.append(row[1].text)
                         except:
                             subjectsD
-                    subjects = "## "
-                    for s in subjectsD:
-                        if(subjects == "## "):
-                            subjects =subjects+ s
-                        else:
-                            subjects = subjects +"," + s
+                    
                     
                 except:
-                    print("Unable to get " + str(url[1]))
                     infos = driver.find_elements_by_id("DocumentoTexto")
                     title = infos[6].text
-                    subjectsD = []
                     for i in range(7,len(infos)-1):
                         subjectsD.append(infos[i].text)
-
+                subjects = "### "
+                for s in subjectsD:
+                    if(subjects == "### "):
+                        subjects =subjects+ s
+                    else:
+                        subjects = subjects +", " + s
                 print(subjects)
                 print('<a href="'+ str(url[1])+'" target="blank">'+str(title)+'</a>')
                 print()
                 print()
-                
+            
