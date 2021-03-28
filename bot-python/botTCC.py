@@ -36,7 +36,7 @@ if __name__ == "__main__":
                 except:
                     infos = driver.find_elements_by_id("DocumentoTexto")
                     title = infos[6].text
-                    for i in range(7,len(infos)-1):
+                    for i in range(7,len(infos)-2):
                         subjectsD.append(infos[i].text)
                 subjects = "### "
                 for s in subjectsD:
