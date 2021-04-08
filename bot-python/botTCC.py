@@ -152,6 +152,7 @@ if __name__ == "__main__":
                         for k in range(0,len(dataList[j]._subjects)):
                             if dataList[j]._subjects[k].lower() == aux["name"].lower():
                                 tcc = dataList[j]
+                                dataList.pop(j)
                                 break
                         if(tcc is not None):
                             print("## " + aux["name"])
