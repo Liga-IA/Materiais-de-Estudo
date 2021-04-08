@@ -15,8 +15,8 @@ class TCCData(object):
                 a = a + sub
             else:
                 a = a + ", " + sub
-        print(a)
-        print( self._titleLink)
+        print("> " + a)
+        print("> " + self._titleLink)
 
 class Subjects():
     def __init__(self):
@@ -142,6 +142,9 @@ if __name__ == "__main__":
                         print("## "+ aux["name"])
                         for a in subset:
                             a.myPrint()
+                        print()
+                        print("--------------")
+                        print()
                 else:
 
                     tcc = None
@@ -153,10 +156,12 @@ if __name__ == "__main__":
                         if(tcc is not None):
                             print("## " + aux["name"])
                             tcc.myPrint()
+                            print()
+                            print("--------------")
+                            print()
                             break
                         
                         
-                print()
-                print()
+               
         
 
