@@ -58,7 +58,7 @@
 " target="blank">Controle de acesso em ambientes inteligentes com fog e redes neurais</a>
 
 
-### Convergência Digital. Dispositivos Móveis. Android. Sistema Horus. Redes Bayesianas. Inteligência Artificial. Usabilidade.
+### Convergência Digital, Dispositivos Móveis, Android, Sistema Horus, Redes Bayesianas, Inteligência Artificial, Usabilidade.
 <a href="https://repositorio.ufsc.br/handle/123456789/184240
 " target="blank">Convergência digital do Sistema Horus para dispositivos móveis</a>
 
@@ -111,17 +111,17 @@
 " target="blank">ESTUDO DE MÉTODOS PARA FLEXIBILIZAÇÃO DE COMPORTAMENTOS EM JOGOS DE ESTRATÉGIA EM TEMPO REAL.</a>
 
 
-### Futebol de Robôs, Agentes, Sistemas Multiagentes. Simulador Soccer Server, RoboCup
+### Futebol de Robôs, Agentes, Sistemas Multiagentes, Simulador Soccer Server, RoboCup
 <a href="https://repositorio.ufsc.br/handle/123456789/183778
 " target="blank">ESTUDO SISTEMÁTICO DE AUXÍLIO A IMPLEMENTAÇÃO DE UM TIME DE FUTEBOL DE ROBÔS SIMULADOS NO SIMULADOR ROBOCUP</a>
 
 
-### Televisão Digital; Interatividade; Avaliação Nutricional; Inteligência Artificial
+### Televisão Digital, Interatividade, Avaliação Nutricional, Inteligência Artificial
 <a href="https://repositorio.ufsc.br/handle/123456789/184105
 " target="blank">Ferramenta para Orientação Nutricional em TV Digital Interativa</a>
 
 
-### Modelos Geradores. Aprendizagem de Máquina. Geração de Amostras. GANs.
+### Modelos Geradores, Aprendizagem de Máquina, Geração de Amostras, GANs.
 <a href="https://repositorio.ufsc.br/handle/123456789/202494
 " target="blank">Geração de imagens em super resolução com Redes Geradoras Adversárias</a>
 
@@ -169,7 +169,7 @@
 " target="blank">Modelo para utilização de agentes inteligentes em ambientes virtuais multiagente</a>
 
 
-### Algoritmos Genético. Otimização. Inteligência Artificial. Otimizações de Funções.
+### Algoritmos Genético, Otimização, Inteligência Artificial, Otimizações de Funções.
 <a href="https://repositorio.ufsc.br/handle/123456789/184253
 " target="blank">Otimização de funções reais multidimensionais utilizando algoritmo genético contínuo</a>
 

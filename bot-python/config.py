@@ -1,6 +1,7 @@
 from selenium import webdriver
-
+from selenium.webdriver.firefox.options import Options
 def configuration():
-    
-    driver = webdriver.Firefox(executable_path=".\geckodriver\geckodriver.exe")
+    opt = Options()
+    opt.add_argument("--headless")
+    driver = webdriver.Firefox(executable_path=".\geckodriver\geckodriver.exe",options=opt)
     return driver

@@ -9,27 +9,33 @@ class TCCData(object):
         self._subjects = subjects
         self._titleLink = '<a href="'+ str(url)+'" target="blank">'+str(title)+'</a>'
     def myPrint(self):
-        print("Subjects:")
+        a = "### "
         for sub in self._subjects:
-            print("  "+ sub)
-        print("Tag: "+ self._titleLink)
+            if(a == "### "):
+                a = a + sub
+            else:
+                a = a + ", " + sub
+        print(a)
+        print( self._titleLink)
 
 class Subjects():
     def __init__(self):
         self._subs = []
     def addSub(self,subName):
-        print(len(self._subs))
+        #print(len(self._subs))
         if(len(self._subs)>0):
+            achou = False
             for i in range(0,len(self._subs)):
-                if self._subs[i]["name"] == subName:
+                if self._subs[i]["name"].lower() == subName.lower():
                     self._subs[i]["freq"] = self._subs[i]["freq"] + 1
-                else:
-                    dt = {
-                        "name": subName,
-                        "freq": 1
-                    }
-                    self._subs.append(dt)
+                    achou = True
                     break
+            if(not achou):
+                dt = {
+                    "name": subName,
+                    "freq": 1
+                }
+                self._subs.append(dt)
         else:
             dt = {
                 "name": subName,
@@ -39,6 +45,14 @@ class Subjects():
     def printFreq(self):
         for sub in self._subs:
             print("Name: " + sub["name"] + " // Freq: " + str(sub["freq"]))
+    def ordenar(self):
+        if(len(self._subs)>0):
+            for i in range (0,len(self._subs)-1):
+                for j in range (i,len(self._subs)):
+                    if self._subs[j]["freq"]>self._subs[i]["freq"]:
+                        aux = self._subs[i]
+                        self._subs[i] = self._subs[j]
+                        self._subs[j] = aux
 if __name__ == "__main__":
     driver = configuration()
     tcc_path = "./Arquivos/TCC"
@@ -63,7 +77,13 @@ if __name__ == "__main__":
                         row  = row.find_elements_by_tag_name('td')
                         #print(row[0].text)
                         if(row[0].text == 'dc.subject'):
-                            subjectsD.append(row[1].text)
+                            t = row[1].text.split(". ")
+                            for x in t:
+                                n = x.split("; ")
+                                for a in n:
+                                    b = a.split(", ")
+                                    for c in b:
+                                        subjectsD.append(c)
                     except:
                         subjectsD
                 
@@ -86,9 +106,57 @@ if __name__ == "__main__":
                 print()
                 print()
             dataList.append(TCCData(subjectsD,title,url[1]))
+    driver.close()
     ocorrencias = Subjects()
     for a in dataList:
         for cat in a._subjects:
-            print(cat)
+            #print(cat)
             ocorrencias.addSub(str(cat))
+    ocorrencias.ordenar()
     ocorrencias.printFreq()
+    subs = ocorrencias._subs
+    i = 0
+    with open('out-org.md', 'w',encoding="utf-8") as f:
+        with redirect_stdout(f):
+            while(len(subs)>0):
+                
+                aux = ocorrencias._subs[0]
+                
+                ocorrencias._subs.pop(0)
+                if(aux["freq"]>1):
+                    subset = []
+                    j = 0
+                    rems = []
+                    for j in range(0,len(dataList)):
+                        for k in range(0,len(dataList[j]._subjects)):
+                            if dataList[j]._subjects[k].lower() == aux["name"].lower():
+                                rems.append(j)
+                                subset.append(dataList[j])
+                    auxList = dataList
+                    pops = 0
+                    for num in rems:
+                        auxList.pop(num-pops)
+                        pops = pops + 1
+                    dataList = auxList
+                    if(len(subset)>0):
+                        print("## "+ aux["name"])
+                        for a in subset:
+                            a.myPrint()
+                else:
+
+                    tcc = None
+                    for j in range(0,len(dataList)):
+                        for k in range(0,len(dataList[j]._subjects)):
+                            if dataList[j]._subjects[k].lower() == aux["name"].lower():
+                                tcc = dataList[j]
+                                break
+                        if(tcc is not None):
+                            print("## " + aux["name"])
+                            tcc.myPrint()
+                            break
+                        
+                        
+                print()
+                print()
+        
+
